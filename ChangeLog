@@ -1,24 +1,36 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Tue, 19 Jul 2022 23:50:18 +0200
+Date:   Wed, 20 Jul 2022 09:52:31 +0200
 
-first commit
+updated pcb
 
 
-A  .gitignore
-A  fp-lib-table
-A  optical-keyboard.kicad_pcb
-A  optical-keyboard.kicad_prl
-A  optical-keyboard.kicad_pro
-A  optical-keyboard.kicad_sch
-A  placefp.py
-A  switch-cutout/.gitignore
-A  switch-cutout/fp-lib-table
-A  switch-cutout/switch-cutout.kicad_pcb
-A  switch-cutout/switch-cutout.kicad_prl
-A  switch-cutout/switch-cutout.kicad_pro
-A  switch-cutout/switch-cutout.kicad_sch
-A  switch.kicad_sch
-A  sym-lib-table
+M  optical-keyboard.kicad_pcb
+M  optical-keyboard.kicad_pro
+M  optical-keyboard.kicad_sch
+M  placefp.py
+M  switch.kicad_sch
+
+commit bf765a4ca861ad561dff2150cb606a80174742e6
+Author: Girish Palya <girishji@gmail.com>
+Date:   Tue Jul 19 23:50:18 2022 +0200
+
+    first commit
+    
+    A  .gitignore
+    A  fp-lib-table
+    A  optical-keyboard.kicad_pcb
+    A  optical-keyboard.kicad_prl
+    A  optical-keyboard.kicad_pro
+    A  optical-keyboard.kicad_sch
+    A  placefp.py
+    A  switch-cutout/.gitignore
+    A  switch-cutout/fp-lib-table
+    A  switch-cutout/switch-cutout.kicad_pcb
+    A  switch-cutout/switch-cutout.kicad_prl
+    A  switch-cutout/switch-cutout.kicad_pro
+    A  switch-cutout/switch-cutout.kicad_sch
+    A  switch.kicad_sch
+    A  sym-lib-table
 
 commit a43a9b83fdb1862fc516ac76f60818d7b1216632
 Author: girishp <girishji@gmail.com>

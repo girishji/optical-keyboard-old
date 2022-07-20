@@ -237,7 +237,7 @@ class Keyboard(object):
             range(61, 76),
         ):
             for st, en in [(i1, i2), (i2, i3), (i3, i4), (i4, i5)]:
-                if st in [1, 2, 16, 15, 30]:
+                if st in [1, 2, 16, 15, 30, 51, 53]:
                     continue
                 start = self.via_track(self.switches[st], "RL", 1, "down")
                 end = self.via_track(self.switches[en], "RP", 1, "up")
@@ -261,7 +261,7 @@ class Keyboard(object):
         board = pcbnew.GetBoard()
         holes = [board.FindFootprintByReference("H1")]  # dummy
         holes += [
-            board.FindFootprintByReference("H" + str(num)) for num in range(1, 20)
+            board.FindFootprintByReference("H" + str(num)) for num in range(1, 21)
         ]
         holes[1].SetPosition(pcbnew.wxPointMM(dim * 3, dim * 0.5))
         holes[2].SetPosition(pcbnew.wxPointMM(dim * 4, dim * 1.5))
@@ -284,11 +284,14 @@ class Keyboard(object):
         )
         holes[14].SetPosition(pcbnew.wxPointMM(dim * (14 + 1 / 2 + 1 / 4), dim * (2)))
         holes[15].SetPosition(pcbnew.wxPointMM(dim * (12), dim * (3 + 1 / 2)))
+        holes[16].SetPosition(
+            pcbnew.wxPointMM(dim * (14), dim * (3 + 1 / 2 - 1 / 8))
+        )
 
-        holes[16].SetPosition(pcbnew.wxPointMM(dim * (1 / 4 + 1 / 8), dim * 2.5))
         holes[17].SetPosition(pcbnew.wxPointMM(dim * (3 + 1 / 2 + 1 / 4), dim * 3.5))
         holes[18].SetPosition(pcbnew.wxPointMM(dim * 14, dim * 1.5))
         holes[19].SetPosition(pcbnew.wxPointMM(dim * (11 - 1 / 4), dim * (2 + 1 / 2)))
+        holes[20].SetPosition(pcbnew.wxPointMM(dim * (1 / 4 + 1 / 8), dim * 2.5))
 
         pcbnew.Refresh()
 
