@@ -1,14 +1,24 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 20 Jul 2022 09:52:31 +0200
+Date:   Wed, 20 Jul 2022 09:55:38 +0200
 
-updated pcb
+update schematic
 
 
-M  optical-keyboard.kicad_pcb
-M  optical-keyboard.kicad_pro
+
 M  optical-keyboard.kicad_sch
-M  placefp.py
 M  switch.kicad_sch
+
+commit d5249820a5e1c205f9ab33c431258aee1d90c852
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Jul 20 09:52:31 2022 +0200
+
+    updated pcb
+    
+    M  optical-keyboard.kicad_pcb
+    M  optical-keyboard.kicad_pro
+    M  optical-keyboard.kicad_sch
+    M  placefp.py
+    M  switch.kicad_sch
 
 commit bf765a4ca861ad561dff2150cb606a80174742e6
 Author: Girish Palya <girishji@gmail.com>

@@ -2478,7 +2478,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 55.88 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1c5e075c-0d59-4f41-b288-1d43e8849604)
-    (property "Reference" "H16" (id 0) (at 58.42 185.8553 0)
+    (property "Reference" "H17" (id 0) (at 58.42 185.8553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 58.42 188.3922 0)
@@ -2546,7 +2546,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 62.23 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4a6dd189-df51-490b-973b-801cd824fa41)
-    (property "Reference" "H17" (id 0) (at 64.77 185.8553 0)
+    (property "Reference" "H18" (id 0) (at 64.77 185.8553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 64.77 188.3922 0)
@@ -2563,7 +2563,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 71.12 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4f3af77f-a4c8-4cfb-b814-08fdd220c175)
-    (property "Reference" "H18" (id 0) (at 73.66 185.8553 0)
+    (property "Reference" "H19" (id 0) (at 73.66 185.8553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 73.66 188.3922 0)
@@ -2612,7 +2612,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 77.47 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5c35b6b4-665e-49cb-b198-1d19488004f2)
-    (property "Reference" "H19" (id 0) (at 80.01 185.8553 0)
+    (property "Reference" "H20" (id 0) (at 80.01 185.8553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 80.01 188.3922 0)
@@ -2792,7 +2792,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 137.16 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a466dee4-f4c6-4564-b0e5-4beb0c27276a)
-    (property "Reference" "H?" (id 0) (at 139.7 175.6953 0)
+    (property "Reference" "H16" (id 0) (at 139.7 175.6953 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 139.7 178.2322 0)
@@ -4998,20 +4998,20 @@
     (path "/676add03-84fb-4b08-992c-85107a2a8b58"
       (reference "H15") (unit 1) (value "MountingHole") (footprint "OpticalParts:MountingHole_2.2mm_M2_jlcpcb")
     )
-    (path "/1c5e075c-0d59-4f41-b288-1d43e8849604"
-      (reference "H16") (unit 1) (value "MountingHole") (footprint "OpticalParts:TestPoint_Plated_Hole_D1.2mm")
+    (path "/a466dee4-f4c6-4564-b0e5-4beb0c27276a"
+      (reference "H16") (unit 1) (value "MountingHole") (footprint "OpticalParts:MountingHole_2.2mm_M2_jlcpcb")
     )
-    (path "/4a6dd189-df51-490b-973b-801cd824fa41"
+    (path "/1c5e075c-0d59-4f41-b288-1d43e8849604"
       (reference "H17") (unit 1) (value "MountingHole") (footprint "OpticalParts:TestPoint_Plated_Hole_D1.2mm")
     )
-    (path "/4f3af77f-a4c8-4cfb-b814-08fdd220c175"
+    (path "/4a6dd189-df51-490b-973b-801cd824fa41"
       (reference "H18") (unit 1) (value "MountingHole") (footprint "OpticalParts:TestPoint_Plated_Hole_D1.2mm")
     )
-    (path "/5c35b6b4-665e-49cb-b198-1d19488004f2"
+    (path "/4f3af77f-a4c8-4cfb-b814-08fdd220c175"
       (reference "H19") (unit 1) (value "MountingHole") (footprint "OpticalParts:TestPoint_Plated_Hole_D1.2mm")
     )
-    (path "/a466dee4-f4c6-4564-b0e5-4beb0c27276a"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "OpticalParts:MountingHole_2.2mm_M2_jlcpcb")
+    (path "/5c35b6b4-665e-49cb-b198-1d19488004f2"
+      (reference "H20") (unit 1) (value "MountingHole") (footprint "OpticalParts:TestPoint_Plated_Hole_D1.2mm")
     )
     (path "/23d7508b-7c29-44fb-a276-a12f2a3d1508/86f62c6e-cc97-4257-bd64-06b736e80ca7"
       (reference "N1") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
