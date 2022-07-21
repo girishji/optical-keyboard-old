@@ -1,12 +1,20 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 20 Jul 2022 09:55:38 +0200
+Date:   Thu, 21 Jul 2022 12:17:14 +0200
 
-update schematic
+update footprint
 
 
 
-M  optical-keyboard.kicad_sch
-M  switch.kicad_sch
+M  optical-keyboard.kicad_pcb
+
+commit 1a6965cc3bf06c91457a46a45d71f9516bfe2bd4
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Jul 20 09:55:38 2022 +0200
+
+    update schematic
+    
+    M  optical-keyboard.kicad_sch
+    M  switch.kicad_sch
 
 commit d5249820a5e1c205f9ab33c431258aee1d90c852
 Author: Girish Palya <girishji@gmail.com>
