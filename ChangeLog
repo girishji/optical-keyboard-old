@@ -1,11 +1,22 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Thu, 21 Jul 2022 12:17:14 +0200
+Date:   Sat, 30 Jul 2022 19:48:42 +0200
 
-update footprint
+Added description
 
 
 
-M  optical-keyboard.kicad_pcb
+M  README.md
+M  optical-keyboard.kicad_pro
+M  switch-cutout/switch-cutout.kicad_pro
+A  switch-cutout/sym-lib-table
+
+commit e86094734db089b5fd0db38246ac00e46ae6fbe7
+Author: Girish Palya <girishji@gmail.com>
+Date:   Thu Jul 21 12:17:14 2022 +0200
+
+    update footprint
+    
+    M  optical-keyboard.kicad_pcb
 
 commit 1a6965cc3bf06c91457a46a45d71f9516bfe2bd4
 Author: Girish Palya <girishji@gmail.com>
