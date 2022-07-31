@@ -24,11 +24,13 @@ currents of ~1mA and 70uA. These are extremely low values that result in Led
 being underdriven (below specs). In fact, any lower values will not make this
 circuit work. The goal was to keep current draw from GPIO pins as low as
 possible. Currently each column draws ~5mA (for 5 Led/PT), which is well below
-the recommended maximum of 10mA per pin. You can decrease the resistor values
-and double the current, or use a transistor to drive maximum current. As a
+the recommended maximum of 25mA per pin (of STM32F401). You can decrease the
+resistor values
+and increase the current, or use a transistor to drive maximum current. As a
 result of low current, the rise time of PT is well below the spec of 15uSec
 (here it is more like a millisecond). As a result the matrix scan rate is not
-stellar (69 hz). This is acceptable for everyday typing.
+stellar (69 hz). This is acceptable for everyday typing. You can better the
+scan rate by increasing current (upto 4x).
 
 ### Notes
 
