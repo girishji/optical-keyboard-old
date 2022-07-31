@@ -2686,7 +2686,7 @@
     (property "Value" "BlackPill_STLINK" (id 1) (at 245.8594 89.6573 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "OpticalParts:BlackPill_STLINK2" (id 2) (at 284.48 60.96 0)
+    (property "Footprint" "blackpill:BlackPill_STLINK" (id 2) (at 284.48 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 284.48 60.96 0)
@@ -5014,229 +5014,229 @@
       (reference "H20") (unit 1) (value "MountingHole") (footprint "OpticalParts:TestPoint_Plated_Hole_D1.2mm")
     )
     (path "/23d7508b-7c29-44fb-a276-a12f2a3d1508/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N1") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N1") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/d8e9f710-ccb2-44c6-93d6-13ae1a3d4bd5/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N2") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N2") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/6177b82e-ed5c-48e2-a70e-905260346ca5/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N3") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N3") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/f636de71-b10a-4579-bc06-b7c6c143914f/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N4") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N4") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/47cd4ae6-daab-409c-8e5f-559995668513/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N5") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N5") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/d636a6c7-5743-489d-90a2-c75e6e9132ff/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N6") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N6") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/41b29bcc-460d-4198-86e3-cc9cc55ffa2f/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N7") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N7") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/0f8d5454-92ea-4f43-858c-8e72a65334e9/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N8") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N8") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/b2c1bc0e-7978-4a57-b9b2-7430e3b0e4af/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N9") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N9") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/1f40be22-804e-4eb4-965a-0804cc1f4994/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N10") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N10") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/89779bb3-4903-4fed-a0af-6508ac7f670e/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N11") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N11") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/612004cc-720b-41f4-9fac-cd7ba84524c0/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N12") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N12") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/66f5a365-b7a2-42dd-8a84-5741830fa775/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N13") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N13") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/037179f1-0a83-41c8-9f10-3ebb8f0219bb/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N14") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N14") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/abf9e287-ba6c-4751-85f1-754fc106bb9d/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N15") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N15") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/7d60b905-7cda-4d45-b9f6-ecdac616d535/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N16") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N16") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/9d0d3585-6dad-4c0e-b838-6eefe87de528/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N17") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N17") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/78f1af89-f9a0-4177-8052-f148080f8e2e/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N18") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N18") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/f008899b-fa8d-4fe9-bbfd-8256fce775ae/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N19") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N19") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/da84b531-b9dc-4553-97a6-58e4fdcbab90/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N20") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N20") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/1a2bb56b-a4e8-4b5a-9d2d-eae0a0c64728/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N21") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N21") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/a5cbe927-673b-4c70-be32-646ed389afba/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N22") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N22") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/be6d6cf5-5afa-4b72-8f39-d670c7c24acd/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N23") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N23") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/b63dbdf5-dd0f-4e83-bf39-460425366e4e/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N24") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N24") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/d758b7c0-9e6a-424a-b83a-52ca619d3f1e/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N25") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N25") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/fa78cadc-d3cb-4a1e-b02d-d53a7c5a848c/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N26") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N26") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/fa3e8195-a306-44d2-8540-8bbc756ff812/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N27") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N27") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/f3ee7762-e93d-48bd-8077-c11980e094df/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N28") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N28") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/1ecf3c8e-5499-425d-b56d-225980c19382/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N29") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N29") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/ec4ac9df-9645-426b-9e5b-5ecfd39e7983/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N30") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N30") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/dbb514c5-c31c-45cd-8417-3d973cde7f0a/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N31") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N31") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/2bf585ac-4157-4a50-bc78-ac5aea66dcad/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N32") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N32") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/77434086-6c7f-4069-a54b-5d1167946a43/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N33") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N33") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/c1de55df-afb0-4b4e-904a-ac3e2c5d0f0d/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N34") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N34") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/862814cd-6404-4a48-87ab-04c2c6410d0f/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N35") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N35") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/cf59bd1a-4b7d-4e6c-9a62-f98a78303e6b/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N36") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N36") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/52489756-fbb3-420a-8000-acb7c279864a/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N37") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N37") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/16866bcd-4201-4ded-816c-5b9488415b02/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N38") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N38") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/feb21cc9-b491-4daa-86a6-187f63543c10/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N39") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N39") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/bfdd03bb-84a8-4ba8-823e-7b51b7a16630/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N40") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N40") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/2e4d024b-24b9-4a6d-806f-da896c539654/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N41") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N41") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/611ea7f6-a0ad-49b9-a15e-dfda8071aebf/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N42") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N42") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/133de04f-7ad3-4a3d-a082-f8071847058c/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N43") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N43") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/12fa71d0-75a9-471e-8d0d-b55aeaa0b4ac/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N44") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N44") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/6f1bd6e7-ad50-4ced-88dc-dfb664bd6955/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N45") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N45") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/c2f9a493-402c-4f9d-8ffd-afa3d783ecc0/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N46") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N46") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/84748307-1558-4e82-a384-500a276ea2ea/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N47") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N47") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/860289e1-830a-486e-8b41-f85be71f136d/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N48") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N48") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/6ed118a9-43a9-42cb-9a97-2859e37115a9/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N49") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N49") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/2757c138-12c4-4515-bd05-939f660dddf5/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N50") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N50") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/e247b4c0-4f6e-42ba-9b59-d029d1c8b3f9/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N51") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N51") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/cfa83b0e-efa8-469e-a63d-7771dd7b942e/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N52") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N52") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/748d075b-4f78-4955-8f9c-b7a60ec0c7cb/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N53") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N53") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/ffec76d2-8cd4-42b4-9217-b129b63bda9f/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N54") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N54") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/ca87f167-bc22-4b80-83d5-28ff5172e1c5/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N55") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N55") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/34145e07-7dec-495f-8e97-4da9dc6dc383/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N56") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N56") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/539b239e-dbdc-4365-8ded-310314b6461e/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N57") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N57") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/122743fa-5023-4f99-969d-55778e3b59ef/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N58") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N58") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/b357541d-bbdc-4542-947f-203c1c084061/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N59") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N59") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/c64168e7-234b-4f8e-b3da-1df70d6c2c5a/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N60") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N60") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/134b4759-3376-4feb-a796-1932815358ea/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N61") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N61") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/749fdf86-2050-4a63-9d29-be80048f4457/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N62") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N62") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/54a6264b-eacd-49bb-9269-dcf736493812/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N63") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N63") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/7e7d600b-fb8e-43c5-ab4b-b843a8fdcc2b/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N64") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N64") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/9bbe3f1e-073f-41e9-bc70-bf9d2bbf80ed/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N65") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N65") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/7ac4bc1d-1570-4135-9e90-96ecfded3def/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N66") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N66") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/a44cc8f5-8f93-40d0-bb49-8cb9687acd49/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N67") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N67") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/c3caeb76-8c40-4d03-b771-3d2259d4ec11/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N68") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N68") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/04470618-4f21-4741-b899-a218060e9bc2/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N69") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N69") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/6c948cce-a761-4647-a89e-65973e5fc7b3/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N70") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N70") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/4a43c2b7-1a9c-4235-a905-7e85bdd79353/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N71") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N71") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/0ddebacc-6707-420a-bd9a-880c50c839ae/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N72") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N72") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/4469b995-fd1a-4e6c-bf8a-9c8e70b2777d/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N73") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N73") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/f3ffa565-d363-4051-a005-23a8e972c23d/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N74") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N74") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/31076cce-9045-4d61-9e92-6a61cc85147d/86f62c6e-cc97-4257-bd64-06b736e80ca7"
-      (reference "N75") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
+      (reference "N75") (unit 1) (value "Diode1N4148WSSod323") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/23d7508b-7c29-44fb-a276-a12f2a3d1508/21ec46c3-43b9-40f0-9b83-10c2f9b72683"
       (reference "Q1") (unit 1) (value "Q_Photo_NPN") (footprint "OpticalParts:Everlight_PT_PT12-21C_TR8")
@@ -6145,7 +6145,7 @@
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/80021cfa-df90-413d-8eeb-a1f89535a3ac"
-      (reference "U1") (unit 1) (value "BlackPill_STLINK") (footprint "OpticalParts:BlackPill_STLINK2")
+      (reference "U1") (unit 1) (value "BlackPill_STLINK") (footprint "blackpill:BlackPill_STLINK")
     )
   )
 )
