@@ -17,7 +17,7 @@ for all columns. The resulting matrix is used by
   to produce keyboard
   HID.
 
-![image](https://i.imgur.com/VGybT4R.png)
+![image](https://i.imgur.com/qu2HqcB.png)
 
 The resistors used are 2.2k ohm for IR Led and 47k ohm for PT. These result in
 currents of ~1mA and 70uA. These are extremely low values that result in Led
