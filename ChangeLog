@@ -1,12 +1,41 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Sun, 31 Jul 2022 10:20:54 +0200
+Date:   Mon, 01 Aug 2022 12:36:15 +0200
 
-Fixed bug in symbols by removing arrows
+Add separate power source for PTs
 
+Sharing input pin b/w pt and led requires a diode, and diode
+slows down the response time of pt considerably
 
-
+M  optical-keyboard.kicad_pcb
+M  optical-keyboard.kicad_prl
 M  optical-keyboard.kicad_sch
+M  placefp.py
 M  switch.kicad_sch
+
+commit 14a631e50e5605ef7dd8884ff0e848d931b2cee0
+Author: Girish Palya <girishji@gmail.com>
+Date:   Sun Jul 31 10:36:07 2022 +0200
+
+    Update
+    
+    M  README.md
+
+commit a35dcd8455f1d875e8cb3c01e79f531a5a159c2b
+Author: Girish Palya <girishji@gmail.com>
+Date:   Sun Jul 31 10:23:51 2022 +0200
+
+    Fixed pic
+    
+    M  README.md
+
+commit ed04fa910c0d7683aeec331894bd5e91ed50f8fd
+Author: Girish Palya <girishji@gmail.com>
+Date:   Sun Jul 31 10:20:54 2022 +0200
+
+    Fixed bug in symbols by removing arrows
+    
+    M  optical-keyboard.kicad_sch
+    M  switch.kicad_sch
 
 commit 656b375c88896241ad135e091388fd7d2e6f9f9e
 Author: Girish Palya <girishji@gmail.com>
