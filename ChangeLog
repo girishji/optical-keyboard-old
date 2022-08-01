@@ -1,16 +1,47 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Mon, 01 Aug 2022 12:36:15 +0200
+Date:   Mon, 01 Aug 2022 13:08:47 +0200
 
-Add separate power source for PTs
+Add footprints library
 
-Sharing input pin b/w pt and led requires a diode, and diode
-slows down the response time of pt considerably
 
+
+A  OpticalSymbols_Library.kicad_sym
+A  Optical_Parts.pretty/BlackPill_STLINK.kicad_mod
+A  Optical_Parts.pretty/BlackPill_STLINK2.kicad_mod
+A  Optical_Parts.pretty/Everlight_IR_IR12-21C_TR8.kicad_mod
+A  Optical_Parts.pretty/Everlight_PT_PT12-21C_TR8.kicad_mod
+A  Optical_Parts.pretty/Gateron_Optical_Switch.kicad_mod
+A  Optical_Parts.pretty/Gateron_Switch_Basic.kicad_mod
+A  Optical_Parts.pretty/MountingHole_1.2mm_M1.kicad_mod
+A  Optical_Parts.pretty/MountingHole_2.2mm_M2.kicad_mod
+A  Optical_Parts.pretty/MountingHole_2.2mm_M2_jlcpcb.kicad_mod
+A  Optical_Parts.pretty/Switch_Cutout.kicad_mod
+A  Optical_Parts.pretty/Switch_Cutout_1.25u.kicad_mod
+A  Optical_Parts.pretty/Switch_Cutout_1.5u.kicad_mod
+A  Optical_Parts.pretty/Switch_Cutout_1.75u.kicad_mod
+A  Optical_Parts.pretty/TestPoint_Plated_Hole_D1.2mm.kicad_mod
+A  Optical_Parts.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
+A  Optical_Parts.pretty/TestPoint_THTPad_1.0x2.5mm_Drill0.5mm.kicad_mod
+M  README.md
+M  fp-lib-table
 M  optical-keyboard.kicad_pcb
-M  optical-keyboard.kicad_prl
-M  optical-keyboard.kicad_sch
-M  placefp.py
 M  switch.kicad_sch
+M  sym-lib-table
+
+commit c031835a9aca3336b69cdba5c9820a2adaa20fad
+Author: Girish Palya <girishji@gmail.com>
+Date:   Mon Aug 1 12:36:15 2022 +0200
+
+    Add separate power source for PTs
+    
+    Sharing input pin b/w pt and led requires a diode, and diode
+    slows down the response time of pt considerably
+    
+    M  optical-keyboard.kicad_pcb
+    M  optical-keyboard.kicad_prl
+    M  optical-keyboard.kicad_sch
+    M  placefp.py
+    M  switch.kicad_sch
 
 commit 14a631e50e5605ef7dd8884ff0e848d931b2cee0
 Author: Girish Palya <girishji@gmail.com>
