@@ -1,32 +1,48 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Mon, 01 Aug 2022 13:08:47 +0200
+Date:   Wed, 03 Aug 2022 11:14:24 +0200
 
-Add footprints library
+Fix footprint hole size
 
 
+Cutouts should be 14x14 mm, not 13.8mm square; This fits
+both gateron and keychron optical switches
 
-A  OpticalSymbols_Library.kicad_sym
-A  Optical_Parts.pretty/BlackPill_STLINK.kicad_mod
-A  Optical_Parts.pretty/BlackPill_STLINK2.kicad_mod
-A  Optical_Parts.pretty/Everlight_IR_IR12-21C_TR8.kicad_mod
-A  Optical_Parts.pretty/Everlight_PT_PT12-21C_TR8.kicad_mod
-A  Optical_Parts.pretty/Gateron_Optical_Switch.kicad_mod
-A  Optical_Parts.pretty/Gateron_Switch_Basic.kicad_mod
-A  Optical_Parts.pretty/MountingHole_1.2mm_M1.kicad_mod
-A  Optical_Parts.pretty/MountingHole_2.2mm_M2.kicad_mod
-A  Optical_Parts.pretty/MountingHole_2.2mm_M2_jlcpcb.kicad_mod
-A  Optical_Parts.pretty/Switch_Cutout.kicad_mod
-A  Optical_Parts.pretty/Switch_Cutout_1.25u.kicad_mod
-A  Optical_Parts.pretty/Switch_Cutout_1.5u.kicad_mod
-A  Optical_Parts.pretty/Switch_Cutout_1.75u.kicad_mod
-A  Optical_Parts.pretty/TestPoint_Plated_Hole_D1.2mm.kicad_mod
-A  Optical_Parts.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
-A  Optical_Parts.pretty/TestPoint_THTPad_1.0x2.5mm_Drill0.5mm.kicad_mod
-M  README.md
-M  fp-lib-table
-M  optical-keyboard.kicad_pcb
-M  switch.kicad_sch
-M  sym-lib-table
+M  Optical_Parts.pretty/Switch_Cutout.kicad_mod
+M  Optical_Parts.pretty/Switch_Cutout_1.25u.kicad_mod
+M  Optical_Parts.pretty/Switch_Cutout_1.5u.kicad_mod
+M  Optical_Parts.pretty/Switch_Cutout_1.75u.kicad_mod
+M  switch-cutout/fp-lib-table
+M  switch-cutout/switch-cutout.kicad_pcb
+M  switch-cutout/sym-lib-table
+
+commit 70191034f0eb0216f1f753f3880bdcb7de0916d5
+Author: Girish Palya <girishji@gmail.com>
+Date:   Mon Aug 1 13:08:47 2022 +0200
+
+    Add footprints library
+    
+    A  OpticalSymbols_Library.kicad_sym
+    A  Optical_Parts.pretty/BlackPill_STLINK.kicad_mod
+    A  Optical_Parts.pretty/BlackPill_STLINK2.kicad_mod
+    A  Optical_Parts.pretty/Everlight_IR_IR12-21C_TR8.kicad_mod
+    A  Optical_Parts.pretty/Everlight_PT_PT12-21C_TR8.kicad_mod
+    A  Optical_Parts.pretty/Gateron_Optical_Switch.kicad_mod
+    A  Optical_Parts.pretty/Gateron_Switch_Basic.kicad_mod
+    A  Optical_Parts.pretty/MountingHole_1.2mm_M1.kicad_mod
+    A  Optical_Parts.pretty/MountingHole_2.2mm_M2.kicad_mod
+    A  Optical_Parts.pretty/MountingHole_2.2mm_M2_jlcpcb.kicad_mod
+    A  Optical_Parts.pretty/Switch_Cutout.kicad_mod
+    A  Optical_Parts.pretty/Switch_Cutout_1.25u.kicad_mod
+    A  Optical_Parts.pretty/Switch_Cutout_1.5u.kicad_mod
+    A  Optical_Parts.pretty/Switch_Cutout_1.75u.kicad_mod
+    A  Optical_Parts.pretty/TestPoint_Plated_Hole_D1.2mm.kicad_mod
+    A  Optical_Parts.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
+    A  Optical_Parts.pretty/TestPoint_THTPad_1.0x2.5mm_Drill0.5mm.kicad_mod
+    M  README.md
+    M  fp-lib-table
+    M  optical-keyboard.kicad_pcb
+    M  switch.kicad_sch
+    M  sym-lib-table
 
 commit c031835a9aca3336b69cdba5c9820a2adaa20fad
 Author: Girish Palya <girishji@gmail.com>
