@@ -2,7 +2,7 @@
 
 Keyboard PCB for Gateron optical switches (KiCad project).
 
-- See [Optical Keyboard Design](https://girishji.github.io/)
+- See [Optical Keyboard Design](https://girishji.github.io/jekyll/update/2022/08/17/optical-keyboard-design.html)
 - There is a python script that is used for placing switches and laying out
   tracks. See also [KiCad 6 Python Scripting](https://girishji.github.io/)
 - [QMK](https://github.com/girishji/qmk_firmware/tree/giri-optical-matrix/keyboards/opticalkb) code for this keyboard
